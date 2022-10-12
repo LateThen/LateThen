@@ -16,8 +16,9 @@
   
 
 - ⚡ Fun fact: I like sleeping🛐🛐🛐  
-https://i.kym-cdn.com/photos/images/newsfeed/002/407/468/b05.gif
-  
+
+    <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/407/468/b05.gif" align="center" style="width: 100%" />
+</div> 
 
 <br/>  
 
