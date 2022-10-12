@@ -8,7 +8,7 @@
 - 🔭 I´m currently trying to make a game in Unity  
   
 
-- 🌱 I´m currently learning on how to use many programming languages  
+- 🌱 I´m currently learning on how to use programming languages  
   
 
 - ❓ Ask me about anything  
