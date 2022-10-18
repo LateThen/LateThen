@@ -3,13 +3,13 @@
 </div> 
   
 
-### <div align="center">Hello, my name is Michal Carska  🌚</div>  
+### <div align="center"></div>  
   
 
 - 🔭 I´m currently trying to make a game in Unity  
   
 
-- 🌱 I´m currently learning on how to work with programming languages  .js & .java
+- 🌱 I´m currently learning on how to work with programming languages 
   
 
 - ❓ Ask me about anything  
@@ -19,7 +19,7 @@
 
 - 🎮 I love RPGs and JRPGs
 
-- Better Call Saul is a banger.🥵
+- Better Call Saul is a banger 🥵
 
 
 
