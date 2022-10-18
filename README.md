@@ -9,13 +9,20 @@
 - 🔭 I´m currently trying to make a game in Unity  
   
 
-- 🌱 I´m currently learning on how to work with programming languages  
+- 🌱 I´m currently learning on how to work with programming languages  .js & .java
   
 
 - ❓ Ask me about anything  
   
 
 - ⚡ Fun fact: I like sleeping🛐🛐🛐  
+
+- 🎮 I love RPGs and JRPGs
+
+- Better Call Saul is a banger.🥵
+
+
+
 
     
 </div> 
