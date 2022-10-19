@@ -13,7 +13,7 @@
 - ❓ Ask me about anything  
   
 
-- ⚡ Fun fact: I like sleeping🛐🛐🛐 (in my bed, at home, not in school or work :D) 
+- ⚡ Fun fact: I like sleeping🛐🛐🛐 (in my bed, at home, not in school or while working :D) 
 
 - 🎮 I love RPGs and JRPGs
 
