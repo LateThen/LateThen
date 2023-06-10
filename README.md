@@ -26,8 +26,6 @@
 </div> 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/407/468/b05.gif" align="center" style="width: 100%" />
 <br/>  
-<div align="center">
-  <div class="tenor-gif-embed" data-postid="14400974" data-share-method="host" data-aspect-ratio="2.08333" data-width="100%"><a href="https://tenor.com/view/vergil-gif-14400974">Vergil GIF</a>from <a href="https://tenor.com/search/vergil-gifs">Vergil GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div> 
+
 
 
