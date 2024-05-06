@@ -3,27 +3,12 @@
 
 ### <div align="center"></div>  
   
+I will do it.
 
-- 🔭 I´m currently trying to make a game in Unity  
-  
-
-- 🌱 I´m currently learning on how to work with programming languages 
-  
-
-- ❓ Ask me about anything  
-  
-
-- ⚡ Fun fact: I like sleeping🛐🛐🛐 (in my bed, at home, not in school or while working :D) 
-
-- 🎮 I love RPGs and JRPGs
-
-- Better Call Saul is a banger 🥵
-
-
-
-
-    
+![emily-class-of-09](https://github.com/LateThen/LateThen/assets/115611785/c1b4d599-beb7-401f-bca0-3f440fe9fa3f)
+ 
 </div> 
+
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/407/468/b05.gif" align="center" style="width: 100%" />
 <br/>  
 
