@@ -3,13 +3,9 @@
   
 I will do it.
 
-![emily-class-of-09](https://github.com/LateThen/LateThen/assets/115611785/c1b4d599-beb7-401f-bca0-3f440fe9fa3f)
-![class-of-09-bitch-please-give-me-a-fry](https://github.com/LateThen/LateThen/assets/115611785/3f4617b5-ea77-480c-a88e-d309cef5a4ad)
-</div> 
 
 
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/407/468/b05.gif" align="center" style="width: 100%" />
-<br/>  
+
 
 
 
